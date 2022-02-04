@@ -1,6 +1,6 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://sandipsahajoy.github.io/CMPUT404-Lab5/'
 
 PATH = 'content'
 
